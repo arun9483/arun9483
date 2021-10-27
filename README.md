@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun Kumar Tripathi
-- 👀 I’m interested in building applications using JavaScript, ReactJs.
+- 👀 I’m interested in building applications using JavaScript, TypeScript, ReactJs.
 - 🌱 I’m currently learning Microfrontends and UI component libraries.
 - 💞️ I’m looking to collaborate on frontend technologies.
 <!--
